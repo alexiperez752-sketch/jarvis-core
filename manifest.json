@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "alexiperez752-sketch.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "alexiperez752-sketch.github",
+  "start_url": "/",
+  "theme_color": "#040d1a",
+  "id": "jarvis-core",
+  "description": "Interfaz de voz y control JARVIS."
+}
